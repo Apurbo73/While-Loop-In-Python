@@ -1,6 +1,6 @@
 ﻿# While-Loop-In-Python
 
-Got it 👍 Let’s break down your code step by step:
+Let’s break down your code step by step:
 
 ```python
 i = 1                # Start with i = 1
@@ -57,4 +57,4 @@ If the user enters `n = 5`:
 👉 In short:
 This program prints **all numbers from 1 to n** and labels each as **odd** or **even**.
 
-Do you want me to also show you how to write the same program using a **for loop** (which is shorter)?
+
