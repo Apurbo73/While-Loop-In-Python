@@ -9,3 +9,17 @@ while i<=n:
         print(i,"- This is an even number")
 
     i=i+1
+
+
+
+# Your Output
+# 1 - This is a odd number
+# 2 - This is an even number
+# 3 - This is a odd number
+# 4 - This is an even number
+# 5 - This is a odd number
+# 6 - This is an even number
+# 7 - This is a odd number
+# 8 - This is an even number
+# 9 - This is a odd number
+# 10 - This is an even number
